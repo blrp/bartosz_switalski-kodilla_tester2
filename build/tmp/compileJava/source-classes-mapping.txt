@@ -1,0 +1,12 @@
+com/kodilla/inheritance/homework/OperatingSystem.java
+ com.kodilla.inheritance.homework.OperatingSystem
+com/kodilla/inheritance/homework/Windows98.java
+ com.kodilla.inheritance.homework.Windows98
+com/kodilla/inheritance/homework/AppW98.java
+ com.kodilla.inheritance.homework.AppW98
+com/kodilla/inheritance/Car.java
+ com.kodilla.inheritance.Car
+com/kodilla/inheritance/Application.java
+ com.kodilla.inheritance.Application
+com/kodilla/inheritance/Convertible.java
+ com.kodilla.inheritance.Convertible
