@@ -22,8 +22,10 @@ public class PrimeCheckerTestSuite {
         boolean result = checker.isPrime(13);
         count++;
         System.out.println("Test number " + count);
-        assertTrue(result);
+        assertFalse(result);
     }
+
+
 
     @Test
     public void shouldReturnTrueWhenPassingTwo() {
