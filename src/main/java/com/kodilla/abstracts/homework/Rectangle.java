@@ -1,19 +1,15 @@
 package com.kodilla.abstracts.homework;
 
 public class Rectangle extends Shape {
-    public Rectangle() {
-        super(200, 140);
-    }
+   public double a, b;
 
-    @Override
-    public void giveSurface() {
-        System.out.println("200");
+   public double Pole()
+   {
+       return a*b;
+   }
 
-    }
-
-    @Override
-    public void givePerimeter() {
-        System.out.println("140");
-
-    }
+   public double Obwod()
+   {
+       return 2*a + 2*b;
+   }
 }

@@ -1,20 +1,15 @@
 package com.kodilla.abstracts.homework;
 
 public class Quadrat extends Shape {
-    public Quadrat() {
-        super(100, 80);
+    public double a;
+
+    public double Pole()
+    {
+        return a*a;
     }
-
-    @Override
-    public void giveSurface() {
-        System.out.println("100");
-
-    }
-
-    @Override
-    public void givePerimeter() {
-        System.out.println("80");
-
+    public double Obwod()
+    {
+        return 4*a;
     }
 
 }

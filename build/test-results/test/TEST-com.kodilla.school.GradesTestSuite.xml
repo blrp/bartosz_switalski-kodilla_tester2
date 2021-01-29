@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.school.GradesTestSuite" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-01-26T18:45:46" hostname="CZOPER-KOMPUTER" time="0.016">
+  <properties/>
+  <testcase name="shouldReturnAverageEqualsZeroIsArrayIsEmpty()" classname="com.kodilla.school.GradesTestSuite" time="0.008"/>
+  <testcase name="shouldCalculateAveragesIfValuesAreOutsideRange()" classname="com.kodilla.school.GradesTestSuite" time="0.002"/>
+  <testcase name="shouldAddTwoElementsToArray()" classname="com.kodilla.school.GradesTestSuite" time="0.002"/>
+  <testcase name="shouldHaveZeroLength()" classname="com.kodilla.school.GradesTestSuite" time="0.001"/>
+  <testcase name="shouldCalculateAverage()" classname="com.kodilla.school.GradesTestSuite" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

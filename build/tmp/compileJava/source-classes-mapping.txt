@@ -1,31 +1,31 @@
-com/kodilla/abstracts/homework/Shape.java
- com.kodilla.abstracts.homework.Shape
-com/kodilla/abstracts/homework/AppShape.java
- com.kodilla.abstracts.homework.AppShape
-com/kodilla/abstracts/homework/Driver.java
- com.kodilla.abstracts.homework.Driver
+com/kodilla/basic_assertion/App.java
+ com.kodilla.basic_assertion.App
 com/kodilla/abstracts/homework/Quadrat.java
  com.kodilla.abstracts.homework.Quadrat
-com/kodilla/abstracts/homework/Person.java
- com.kodilla.abstracts.homework.Person
+com/kodilla/abstracts/homework/Triangle.java
+ com.kodilla.abstracts.homework.Triangle
 com/kodilla/basic_assertion/Application.java
  com.kodilla.basic_assertion.Application
 com/kodilla/abstracts/Animal.java
  com.kodilla.abstracts.Animal
 com/kodilla/basic_assertion/ResultChecker.java
  com.kodilla.basic_assertion.ResultChecker
-com/kodilla/abstracts/homework/Job.java
- com.kodilla.abstracts.homework.Job
+com/kodilla/abstracts/homework/Shape.java
+ com.kodilla.abstracts.homework.Shape
 com/kodilla/abstracts/homework/ShapeProcessor.java
  com.kodilla.abstracts.homework.ShapeProcessor
 com/kodilla/abstracts/Application.java
  com.kodilla.abstracts.Application
 com/kodilla/abstracts/Dog.java
  com.kodilla.abstracts.Dog
+com/kodilla/basic_assertion/PrimeChecker.java
+ com.kodilla.basic_assertion.PrimeChecker
+com/kodilla/bank/homework/Bank.java
+ com.kodilla.bank.homework.Bank
 com/kodilla/inheritance/homework/OperatingSystem.java
  com.kodilla.inheritance.homework.OperatingSystem
-com/kodilla/abstracts/homework/JobProcessor.java
- com.kodilla.abstracts.homework.JobProcessor
+com/kodilla/school/Student.java
+ com.kodilla.school.Student
 com/kodilla/abstracts/Duck.java
  com.kodilla.abstracts.Duck
 com/kodilla/inheritance/Application.java
@@ -34,21 +34,27 @@ com/kodilla/inheritance/Convertible.java
  com.kodilla.inheritance.Convertible
 com/kodilla/basic_assertion/Calculator.java
  com.kodilla.basic_assertion.Calculator
-com/kodilla/abstracts/homework/Cook.java
- com.kodilla.abstracts.homework.Cook
 com/kodilla/inheritance/homework/Windows98.java
  com.kodilla.inheritance.homework.Windows98
 com/kodilla/inheritance/homework/AppW98.java
  com.kodilla.inheritance.homework.AppW98
 com/kodilla/inheritance/Car.java
  com.kodilla.inheritance.Car
+com/kodilla/school/Grades.java
+ com.kodilla.school.Grades
 com/kodilla/basic_assertion/AppPow.java
  com.kodilla.basic_assertion.AppPow
 com/kodilla/abstracts/AnimalProcessor.java
  com.kodilla.abstracts.AnimalProcessor
+com/kodilla/bank/homework/CashMachine.java
+ com.kodilla.bank.homework.CashMachine
 com/kodilla/abstracts/homework/Rectangle.java
  com.kodilla.abstracts.homework.Rectangle
-com/kodilla/abstracts/homework/Triangle.java
- com.kodilla.abstracts.homework.Triangle
-com/kodilla/basic_assertion/App.java
- com.kodilla.basic_assertion.App
+com/kodilla/abstracts/homework/Job.java
+ com.kodilla.abstracts.homework.Job
+com/kodilla/abstracts/homework/TaxiDriver.java
+ com.kodilla.abstracts.homework.TaxiDriver
+com/kodilla/abstracts/homework/Person.java
+ com.kodilla.abstracts.homework.Person
+com/kodilla/abstracts/homework/Builder.java
+ com.kodilla.abstracts.homework.Builder

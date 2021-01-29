@@ -4,15 +4,19 @@ package com.kodilla.abstracts.homework;
 
 
 public class Person {
-    private int firstName;
+    private String FirstName;
     private int age;
-    private int job;
+    private String job;
 
     public static void main(String[] args) {
-        Job driver = new Driver(5000,1);
+        Builder builder= new Builder();
+        builder.showResponsibilities();
+        System.out.println(builder.showResponsibilities());
 
-        JobProcessor processor = new JobProcessor();
-        processor.process(driver);
+
+        TaxiDriver taxidriver = new TaxiDriver();
+        taxidriver.showResponsibilities();
+        System.out.println(taxidriver.showResponsibilities());
     }
 
 

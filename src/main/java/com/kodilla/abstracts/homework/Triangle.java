@@ -1,19 +1,15 @@
 package com.kodilla.abstracts.homework;
 
 public class Triangle extends Shape{
-    public Triangle() {
-        super(60, 30);
-    }
+   public double a, b, h, c;
 
-    @Override
-    public void giveSurface() {
-        System.out.println("60");
+   public double Pole()
+   {
+       return 0.5*a*h;
+   }
+   public double Obwod()
+   {
+       return a+b+c;
+   }
 
-    }
-
-    @Override
-    public void givePerimeter() {
-        System.out.println(30);
-
-    }
 }

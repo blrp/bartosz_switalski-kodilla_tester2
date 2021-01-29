@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.kodilla.basic_assertion.CalculatorTestSuite3" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-25T19:51:10" hostname="CZOPER-KOMPUTER" time="0.013">
-  <properties/>
-  <testcase name="testPOW()" classname="com.kodilla.basic_assertion.CalculatorTestSuite3" time="0.013"/>
-  <system-out><![CDATA[Metoda pow nie dziaĹ‚a poprawnie dla liczb 8
-Wynik jest wiÄ™kszy od zera
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
