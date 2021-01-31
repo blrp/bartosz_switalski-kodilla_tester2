@@ -10,16 +10,16 @@ com/kodilla/abstracts/Animal.java
  com.kodilla.abstracts.Animal
 com/kodilla/basic_assertion/ResultChecker.java
  com.kodilla.basic_assertion.ResultChecker
-com/kodilla/abstracts/homework/Shape.java
- com.kodilla.abstracts.homework.Shape
+com/kodilla/basic_assertion/PrimeChecker.java
+ com.kodilla.basic_assertion.PrimeChecker
 com/kodilla/abstracts/homework/ShapeProcessor.java
  com.kodilla.abstracts.homework.ShapeProcessor
 com/kodilla/abstracts/Application.java
  com.kodilla.abstracts.Application
 com/kodilla/abstracts/Dog.java
  com.kodilla.abstracts.Dog
-com/kodilla/basic_assertion/PrimeChecker.java
- com.kodilla.basic_assertion.PrimeChecker
+com/kodilla/abstracts/homework/Shape.java
+ com.kodilla.abstracts.homework.Shape
 com/kodilla/bank/homework/Bank.java
  com.kodilla.bank.homework.Bank
 com/kodilla/inheritance/homework/OperatingSystem.java
