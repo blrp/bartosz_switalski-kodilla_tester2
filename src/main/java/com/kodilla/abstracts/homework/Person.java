@@ -6,7 +6,7 @@ package com.kodilla.abstracts.homework;
 public class Person {
     private String FirstName;
     private int age;
-    private String Job;
+    private  Job job;
 
     public static void main(String[] args) {
 
