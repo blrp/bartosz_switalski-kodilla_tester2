@@ -21,6 +21,10 @@ public class Bank {
         }
         return sum;
     }
+    public double getAverage() {
+        return -1;
+    }
+
 
 
 

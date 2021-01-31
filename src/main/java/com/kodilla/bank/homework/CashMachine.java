@@ -11,6 +11,10 @@ public class CashMachine {
         this.size = 0;
     }
 
+    public CashMachine() {
+
+    }
+
     public void add(int value) {
         this.size++;
         int[] newTab = new int[this.size];
@@ -57,5 +61,20 @@ public class CashMachine {
         }
         return counter;
     }
+    public double getAverage() {
+        if (this.values.length == 0) {
+            return 0;
+        }
+        double sum = 0;
+        for(int i = 0; i < this.values.length; i++) {
+            sum += this.values[i];
+        }
+        return sum/this.values.length;
+    }
+
+    public int[] getTransactions() {
+        return new int[0];
+    }
+
 }
 
