@@ -1,11 +1,9 @@
 package com.kodilla.abstracts.homework;
 
-public class TaxiDriver extends Job{
-
+public class TaxiDriver extends Job {
 
     @Override
-    public boolean showResponsibilities() {
-        System.out.println("Driving people");
-        return true;
+    public void showResponsibilities() {
+        System.out.println("Drive");
     }
 }

@@ -2,24 +2,24 @@ com/kodilla/basic_assertion/App.java
  com.kodilla.basic_assertion.App
 com/kodilla/abstracts/homework/Quadrat.java
  com.kodilla.abstracts.homework.Quadrat
-com/kodilla/abstracts/homework/Triangle.java
- com.kodilla.abstracts.homework.Triangle
+com/kodilla/abstracts/homework/Person.java
+ com.kodilla.abstracts.homework.Person
 com/kodilla/basic_assertion/Application.java
  com.kodilla.basic_assertion.Application
 com/kodilla/abstracts/Animal.java
  com.kodilla.abstracts.Animal
 com/kodilla/basic_assertion/ResultChecker.java
  com.kodilla.basic_assertion.ResultChecker
-com/kodilla/basic_assertion/PrimeChecker.java
- com.kodilla.basic_assertion.PrimeChecker
+com/kodilla/abstracts/homework/Job.java
+ com.kodilla.abstracts.homework.Job
 com/kodilla/abstracts/homework/ShapeProcessor.java
  com.kodilla.abstracts.homework.ShapeProcessor
 com/kodilla/abstracts/Application.java
  com.kodilla.abstracts.Application
 com/kodilla/abstracts/Dog.java
  com.kodilla.abstracts.Dog
-com/kodilla/abstracts/homework/Shape.java
- com.kodilla.abstracts.homework.Shape
+com/kodilla/abstracts/homework/TaxiDriver.java
+ com.kodilla.abstracts.homework.TaxiDriver
 com/kodilla/bank/homework/Bank.java
  com.kodilla.bank.homework.Bank
 com/kodilla/inheritance/homework/OperatingSystem.java
@@ -50,11 +50,11 @@ com/kodilla/bank/homework/CashMachine.java
  com.kodilla.bank.homework.CashMachine
 com/kodilla/abstracts/homework/Rectangle.java
  com.kodilla.abstracts.homework.Rectangle
-com/kodilla/abstracts/homework/Job.java
- com.kodilla.abstracts.homework.Job
-com/kodilla/abstracts/homework/TaxiDriver.java
- com.kodilla.abstracts.homework.TaxiDriver
-com/kodilla/abstracts/homework/Person.java
- com.kodilla.abstracts.homework.Person
+com/kodilla/abstracts/homework/Triangle.java
+ com.kodilla.abstracts.homework.Triangle
+com/kodilla/basic_assertion/PrimeChecker.java
+ com.kodilla.basic_assertion.PrimeChecker
+com/kodilla/abstracts/homework/Shape.java
+ com.kodilla.abstracts.homework.Shape
 com/kodilla/abstracts/homework/Builder.java
  com.kodilla.abstracts.homework.Builder

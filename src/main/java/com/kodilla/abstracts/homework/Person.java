@@ -3,26 +3,33 @@ package com.kodilla.abstracts.homework;
 
 
 
-public class Person {
-    private String FirstName;
+public class Person extends Job{
+
+    private String firstName;
     private int age;
     private  Job job;
 
+    public Person(Object jarek, int i, TaxiDriver taxiDriver) {
+
+    }
+
+
+    public void showPersonResponsibilities() {
+        System.out.println(firstName + "has to ");
+        job.showResponsibilities();
+        System.out.println("to earn for living");
+    }
+
     public static void main(String[] args) {
+        Person jarek = new Person("jarek", 50, new TaxiDriver());
+
+        jarek.showPersonResponsibilities();
 
 
-        Builder builder= new Builder();
-        builder.showResponsibilities();
-        System.out.println(builder.showResponsibilities());
 
-
-        TaxiDriver taxidriver = new TaxiDriver();
-        taxidriver.showResponsibilities();
-        System.out.println(taxidriver.showResponsibilities());
-    }
     }
 
-
+}
 
 
 

@@ -1,8 +1,0 @@
-com/kodilla/school/StudentTestSuite.java
- com.kodilla.school.StudentTestSuite
-com/kodilla/school/GradesTestSuite.java
- com.kodilla.school.GradesTestSuite
-com/kodilla/basic_assertion/CalculatorTestSuite.java
- com.kodilla.basic_assertion.CalculatorTestSuite
-com/kodilla/basic_assertion/PrimeCheckerTestSuite.java
- com.kodilla.basic_assertion.PrimeCheckerTestSuite

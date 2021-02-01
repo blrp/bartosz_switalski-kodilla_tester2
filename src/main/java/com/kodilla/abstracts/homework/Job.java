@@ -1,18 +1,16 @@
 package com.kodilla.abstracts.homework;
 
 public abstract class Job {
+    int salary;
 
-   public int salary() {
-      return 0;
-   }
+    String responsibilities;
 
-   public String responsibilities() {
-      return null;
-   }
-
-   public abstract boolean showResponsibilities();
+   public void showResponsibilities() {
+      System.out.println("My responsibilities are: " + responsibilities);
 
    }
+
+}
 
 
 
